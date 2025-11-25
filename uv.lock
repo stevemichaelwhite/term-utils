@@ -435,7 +435,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "altair", specifier = ">=6.0.0" },
-    { name = "pandas", specifier = ">=2.3.3" },
+    { name = "pandas", specifier = ">=2.2.0" },
     { name = "polars", specifier = ">=1.35.2" },
     { name = "visidata", specifier = ">=3.3" },
 ]
